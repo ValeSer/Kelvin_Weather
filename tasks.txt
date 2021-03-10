@@ -13,3 +13,5 @@
     Fahrenheit = Celsius * (9/5) + 32
     In the next step we will round the number saved to fahrenheit. 
     Choose the variable type that allows you to change its value.
+
+6. Write a comment above that explains this line of code.
