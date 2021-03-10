@@ -6,3 +6,5 @@ const celsius = kelvin - 273;
 
 //equation to calculate Fahrenheit
 let fahrenheit = celsius * (9/5) + 32;
+
+fahrenheith = Math.floor(fahrenheit);
