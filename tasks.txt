@@ -19,3 +19,6 @@
 7. When you convert from Celsius to Fahrenheit, you often get a decimal number.
     Use the .floor() method from the built-in Math object to round down the Fahrenheit temperature.
     Save the result to the fahrenheit variable.
+
+8. Write a comment above that explains this line of code.
+
