@@ -1,5 +1,5 @@
 1. The forecast today is 293 Kelvin. To start, create a variable named kelvin, and set it equal to 293.
-  The value saved to kelvin will stay constant. Choose the variable type with this in mind.
+    The value saved to kelvin will stay constant. Choose the variable type with this in mind.
 
 2. Write a comment above that explains this line of code.
 
@@ -15,3 +15,7 @@
     Choose the variable type that allows you to change its value.
 
 6. Write a comment above that explains this line of code.
+
+7. When you convert from Celsius to Fahrenheit, you often get a decimal number.
+    Use the .floor() method from the built-in Math object to round down the Fahrenheit temperature.
+    Save the result to the fahrenheit variable.
