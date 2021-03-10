@@ -1,4 +1,5 @@
-// The forecast today is 293 Kelvin
-const kelvin = 293
+//The forecast today is 293 Kelvin
+const kelvin = 293;
 
-const celsius = kelvin - 273
+//Celsius is 273 degrees less than Kelvin
+const celsius = kelvin - 273;
