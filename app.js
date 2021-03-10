@@ -4,4 +4,5 @@ const kelvin = 293;
 //Celsius is 273 degrees less than Kelvin
 const celsius = kelvin - 273;
 
-let fahrenheit = celsius * (9/5) + 32
+//equation to calculate Fahrenheit
+let fahrenheit = celsius * (9/5) + 32;
