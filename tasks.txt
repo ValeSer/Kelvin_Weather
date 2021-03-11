@@ -31,4 +31,11 @@
 
 11. By using variables, your program should work for any Kelvin temperature — just change the value of kelvin and run the program again.
     What’s 0 Kelvin in Fahrenheit?
+12. Great work! Kelvin can now publish his forecasts in Celsius and Fahrenheit.
+    If you’d like extra practice, try this:
 
+    Convert celsius to the Newton scale using the equation below
+    Newton = Celsius * (33/100)
+
+    Round down the Newton temperature using the .floor() method
+    Use console.log and string interpolation to log the temperature in newton to the console
