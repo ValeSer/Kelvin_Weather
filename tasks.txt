@@ -22,3 +22,7 @@
 
 8. Write a comment above that explains this line of code.
 
+9. Use console.log and string interpolation to log the temperature in fahrenheit to the console as follows:
+    The temperature is TEMPERATURE degrees Fahrenheit.
+    Use string interpolation to replace TEMPERATURE with the value saved to fahrenheit.
+
