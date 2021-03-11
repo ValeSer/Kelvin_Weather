@@ -26,3 +26,9 @@
     The temperature is TEMPERATURE degrees Fahrenheit.
     Use string interpolation to replace TEMPERATURE with the value saved to fahrenheit.
 
+10. Run your program to see your results!
+    If you want to check your work, open the hint.
+
+11. By using variables, your program should work for any Kelvin temperature — just change the value of kelvin and run the program again.
+    What’s 0 Kelvin in Fahrenheit?
+
